@@ -1,0 +1,18 @@
+{
+   "game": [
+
+      {
+         "id": "01",
+         "name":"gaurav",
+         "favourite-game": "GTA-V"
+
+      },
+
+      {
+        "id": "02",
+        "name":"Yash",
+        "favourite-game": "football"
+
+      }
+   ]
+}
