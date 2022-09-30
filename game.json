@@ -80,22 +80,6 @@
     "favourite-game": "Valorant"
    },
 
-      {
-        "id": "07",
-        "name":"shritej",
-        "favourite-game": "football"
-
-    "id": "4",
-    "name":"Pranita Choure",
-    "favourite-game": "chess"
-   }
-      {
-        "id": "10",
-        "name":"pratiksha",
-        "favourite-game": "Cricket"
-
-      },
-
 
    ]
 }
@@ -218,7 +202,29 @@
 
 
 
+ {
+         "id": "05",
+         "name":"PRANITA",
+         "favourite-game": "CRICKET"
 
+      },
+
+
+      {
+        "id": "07",
+        "name":"shritej",
+        "favourite-game": "football"
+
+    "id": "4",
+    "name":"Pranita Choure",
+    "favourite-game": "chess"
+   }
+      {
+        "id": "10",
+        "name":"pratiksha",
+        "favourite-game": "Cricket"
+
+      },
 
 
 
@@ -364,7 +370,21 @@
 
         },
 
+{
+        "id": "07",
+        "name":"shritej",
+        "favourite-game": "football"
 
+    "id": "4",
+    "name":"Pranita Choure",
+    "favourite-game": "chess"
+   }
+      {
+        "id": "10",
+        "name":"pratiksha",
+        "favourite-game": "Cricket"
+
+      },
 ]
    
 
