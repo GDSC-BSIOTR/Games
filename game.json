@@ -2,6 +2,14 @@
    "game": [
 
       {
+         "id": "00",
+
+         "name":"Gaurav",
+         "favourite-game": "Cycle Frontier",
+         "favourite-game": "Valorant",
+         "favourite-game": "Watch Dogs 2",
+      },
+      {
          "id": "01",
 
          "name":"arman",
