@@ -32,7 +32,13 @@
         "id": "5",
         "name":"shritej",
         "favourite-game": "football"
-
+      
+      },
+{
+        "id": "6",
+        "name":"SOHAM",
+        "favourite-game": "Carrom"
+      
       },
    ]
 }
