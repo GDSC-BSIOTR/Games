@@ -662,7 +662,7 @@
          "favourite-game": "Pubg"
 
               },
-{
+         {
          "id": "123",
 
          "name":"Priyanka",
@@ -670,6 +670,15 @@
          "favourite-game": "Cricket"
 
               },
+
+         {
+         "id": "123",
+
+         "name":"kunal",
+    
+         "favourite-game": "Cricket"
+
+
 {
          "id": "124",
        
@@ -677,6 +686,7 @@
            
          "favourite-game": "Walking Dead"
        
+
               },
 
 ]
