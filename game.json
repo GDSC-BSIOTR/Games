@@ -3,6 +3,10 @@
 
       {
          "id": "01",
+
+         "name":"Satyam",
+         "favourite-game": "Cricket"
+=======
          "name":"gaurav",
 
          "favourite-game": "GTV"
@@ -10,10 +14,14 @@
          "favourite-game": "cricket"
 
 
+
       },
 
       {
         "id": "02",
+
+        "name":"Arman",
+=======
 
         "name":"Yash",
 
@@ -22,6 +30,7 @@
         "favourite-game": "cricketcommit"
 =======
         "name":"Sahil",
+
         "favourite-game": "football"
 
 
@@ -35,14 +44,18 @@
       },
        {
          "id": "03",
+
+         "name":"Kirti",
+
          "name":"HAZEL",
 
          "favourite-game": "cricket "
-=======
+
          "favourite-game": "BASKETBALL"},
       {
-=======
+
          "name":"kartik",
+
          "favourite-game": "BASKETBALL"
 
 
@@ -68,7 +81,7 @@
         "id": "07",
         "name":"shritej",
         "favourite-game": "football"
-=======
+
     "id": "4",
     "name":"Pranita Choure",
     "favourite-game": "chess"
@@ -90,7 +103,7 @@
          "favourite-game": "Battle Ground Mobile India"
           "id": "5316248410",
 }  
-=======
+
 
       {
         "id": "5",
@@ -133,7 +146,6 @@
 
       },
 
-=======
 
       {
         "id": "06",
@@ -182,21 +194,6 @@
          "favourite-game": "cricket"
 
       }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
