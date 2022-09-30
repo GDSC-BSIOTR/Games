@@ -59,6 +59,14 @@
 
       },
 
+      {
+        "id": "06",
+        "name":"mangal",
+        "favourite-game": "basketball"
+        
+        },
+
+
 
 
 
@@ -84,6 +92,7 @@
         "id": "021212",
         "name":"Rushikesh ",
         "favourite-game": "Genshin impact"
+
 
       },
    ]
