@@ -582,21 +582,8 @@
     "favourite-game": "Pubg"
 
    },
-]
+
      
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
  {
@@ -606,4 +593,12 @@
     "favourite-game": "Summer time saga"
 
    },
+
+    {
+        "id": "48",
+        "name":"Aryan",
+        "favourite-game": "badminton"
+
+      },
+]
 
