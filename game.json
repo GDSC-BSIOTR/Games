@@ -3,6 +3,10 @@
 
       {
          "id": "01",
+
+         "name":"arman",
+         "favourite-game": "GTA-V"
+=======
          "name":"gaurav",
 
          "favourite-game": "GTV"
@@ -17,12 +21,16 @@
 
         "name":"Yash",
 
+        "favourite-game": "cricket"
+=======
+
         "favourite-game": "cricket "
 =======
         "favourite-game": "cricketcommit"
 =======
         "name":"Sahil",
         "favourite-game": "football"
+
 
 
 
