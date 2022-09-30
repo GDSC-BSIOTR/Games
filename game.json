@@ -34,5 +34,38 @@
         "favourite-game": "football"
 
       },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+        "id": "20",
+        "name":"Anuja",
+        "favourite-game": "Cricket"
+
+      },
    ]
 }
