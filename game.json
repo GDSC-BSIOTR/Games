@@ -3,6 +3,10 @@
 
       {
          "id": "01",
+
+         "name":"arman",
+         "favourite-game": "GTA-V"
+=======
          "name":"gaurav",
 
          "favourite-game": "GTV"
@@ -17,12 +21,16 @@
 
         "name":"Yash",
 
+        "favourite-game": "cricket"
+=======
+
         "favourite-game": "cricket "
 =======
         "favourite-game": "cricketcommit"
 =======
         "name":"Sahil",
         "favourite-game": "football"
+
 
 
 
@@ -62,13 +70,63 @@
     "id": "06",
     "name":"Meghsham Jade",
     "favourite-game": "BGMI"
+
    },
 
+
+   ]
+}
+
       {
+        "id": "6",
+        "name":"Rutuja",
+        "favourite-game": "handball"
+
+      },
+
+
+     {
+        "id":          "6",
+        "name":        "saif",
+        "favourite-game": "football",
+
+        
+        {
+         "id": "22",
+         "name":"prathamesh",
+         "favourite-game": "stone,paper&scissor"
+
+      },
+   }
+   
+ {
+         "id": "07",
+         "name":"Omkar",
+         "favourite-game": "Basketball"
+
+      }
+
+
+
+{
+        "id": "53162483234",
+        "name":"Shubham Nile",
+        "favourite-game": "Battleground Mobile India"
+
+      },
+
+{
+        "id": "5316248410",
+        "name":"Omshree",
+        "favourite-game": "Battleground mobile india"
+
+        },
+
+{
         "id": "07",
         "name":"shritej",
         "favourite-game": "football"
-=======
+
     "id": "4",
     "name":"Pranita Choure",
     "favourite-game": "chess"
@@ -79,6 +137,48 @@
         "favourite-game": "Cricket"
 
       },
+      
+      {
+        "id": "05",
+        "name":"Adwaita",
+        "favourite-game": "Candy Crush"
+
+      },
+   
+   
+
+{
+        "id": "05",
+        "name":"Rushita",
+        "favourite-game": "football"
+
+      },
+
+
+  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+    "id": "7",
+    "name":"Alok Singh",
+    "favourite-game": "Valorant"
+   },
+
+
+      {
+    "id": "5",
+    "name":"Tushar Mourya",
+    "favourite-game": "BGMI"
+   },
+
 
    ]
 }
@@ -90,7 +190,7 @@
          "favourite-game": "Battle Ground Mobile India"
           "id": "5316248410",
 }  
-=======
+
 
       {
         "id": "5",
@@ -132,9 +232,6 @@
         "favourite-game": "Apex Legends"
 
       },
-
-=======
-
       {
         "id": "06",
         "name":"mangal",
@@ -204,7 +301,29 @@
 
 
 
+ {
+         "id": "05",
+         "name":"PRANITA",
+         "favourite-game": "CRICKET"
 
+      },
+
+
+      {
+        "id": "07",
+        "name":"shritej",
+        "favourite-game": "football"
+
+    "id": "4",
+    "name":"Pranita Choure",
+    "favourite-game": "chess"
+   }
+      {
+        "id": "10",
+        "name":"pratiksha",
+        "favourite-game": "Cricket"
+
+      },
 
 
 
@@ -257,6 +376,15 @@
         "id": "6",
         "name":"pratham",
         "favourite-game": "football"
+
+      
+      },
+{
+        "id": "6",
+        "name":"SOHAM",
+        "favourite-game": "Carrom"
+      
+
    
       },
 
@@ -271,6 +399,7 @@
         "id": "22",
         "name":"Sanskruti Thorve",
         "favourite-game": "Kabaddi"
+
 
       },
 
@@ -292,7 +421,10 @@
       }
 
 
+
+
    ]
+
 }
 
       {
@@ -316,11 +448,7 @@
 
       },
    }
-]
    
-
-     },
-
  {
          "id": "07",
          "name":"Omkar",
@@ -345,7 +473,29 @@
         },
 
 {
+
    "id": "08",
    "name":"Lostybtw",
    "favourite-game":"Assassin's Creed 2"
    },
+=======
+        "id": "07",
+        "name":"shritej",
+        "favourite-game": "football"
+
+    "id": "4",
+    "name":"Pranita Choure",
+    "favourite-game": "chess"
+   }
+      {
+        "id": "10",
+        "name":"pratiksha",
+        "favourite-game": "Cricket"
+
+      },
+
+]
+   
+
+     
+
