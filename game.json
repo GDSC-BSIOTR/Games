@@ -262,6 +262,21 @@
 
       },
 
+ {
+        "id": "22",
+        "name":"Sanskruti Thorve",
+        "favourite-game": "Kabaddi"
+
+      },
+
+
+
+
+
+
+
+
+
 
 
        {
@@ -270,6 +285,7 @@
          "favourite-game": "PUBG-MOBILE"
 
       }
+
 
    ]
 }
