@@ -4,14 +4,23 @@
       {
          "id": "01",
          "name":"gaurav",
+
+         "favourite-game": "GTV"
+=======
          "favourite-game": "cricket"
+
 
       },
 
       {
         "id": "02",
+
+        "name":"Yash",
+        "favourite-game": "cricketcommit"
+=======
         "name":"Sahil",
         "favourite-game": "football"
+
 
       },
             {
