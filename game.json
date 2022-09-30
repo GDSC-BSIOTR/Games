@@ -20,5 +20,10 @@
          "favourite-game": "BASKETBALL"
 
       },
+      {
+    "id": "4",
+    "name":"Meghsham Jade",
+    "favourite-game": "BGMI"
+   },
    ]
 }
