@@ -20,5 +20,12 @@
          "favourite-game": "BASKETBALL"
 
       },
+      {
+         "id": "0",
+         "name":"ABHIRAJ",
+         "favourite-game": "CHESS"
+
+      },
+
    ]
 }
