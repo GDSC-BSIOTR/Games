@@ -62,7 +62,16 @@
     "id": "06",
     "name":"Meghsham Jade",
     "favourite-game": "BGMI"
-   },
+   
+   
+
+{
+        "id": "05",
+        "name":"Rushita",
+        "favourite-game": "football"
+
+      },
+
   
       
       
@@ -91,7 +100,7 @@
          "favourite-game": "Battle Ground Mobile India"
           "id": "5316248410",
 }  
-=======
+
 
       {
         "id": "5",
@@ -323,6 +332,7 @@
 
 
    ]
+
 }
 
       {
