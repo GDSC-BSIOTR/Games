@@ -22,7 +22,14 @@
          "name":"alpha",
          "favourite-game": "football"
       },
-      {
+     
+         "id": "0",
+         "name":"ABHIRAJ",
+         "favourite-game": "CHESS"
+
+      },
+
+{
     "id": "4",
     "name":"Meghsham Jade",
     "favourite-game": "BGMI"
@@ -34,10 +41,41 @@
         "favourite-game": "football"
 
       },
+
       {
-        "id": "6",
+        "id": "06",
         "name":"mangal",
         "favourite-game": "basketball"
+        
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+        "id": "021212",
+        "name":"Rushikesh ",
+        "favourite-game": "Genshin impact"
+
 
       },
    ]
