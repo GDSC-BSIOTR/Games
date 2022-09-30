@@ -42,13 +42,32 @@
         "favourite-game": "football"
 
       },
+
       {
        "id": "08",
         "name":"Anuja Jadhav",
         "favourite-game": "GTA Vice City"
       },
- {
+
+      
+      {
         "id": "09",
+        "name":"ashish",
+        "favourite-game": "gta-v"
+
+      },
+
+
+
+
+      {
+        "id": "10",
+        "name":"Gouri Rawas",
+        "favourite-game": "Apex Legends"
+
+      },
+ {
+        "id": "11",
         "name":"Rushikesh ",
         "favourite-game": "Genshin impact"
 
