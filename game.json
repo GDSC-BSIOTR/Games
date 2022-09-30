@@ -173,6 +173,13 @@
    },
 
 
+      {
+    "id": "5",
+    "name":"Tushar Mourya",
+    "favourite-game": "BGMI"
+   },
+
+
    ]
 }
 
@@ -412,6 +419,7 @@
          "favourite-game": "PUBG-MOBILE"
 
       }
+
 
 
 
