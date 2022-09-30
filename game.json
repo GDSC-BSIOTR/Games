@@ -13,6 +13,12 @@
         "name":"Yash",
         "favourite-game": "football"
 
-      }
+      },
+       {
+         "id": "03",
+         "name":"HAZEL",
+         "favourite-game": "BASKETBALL"
+
+      },
    ]
 }
