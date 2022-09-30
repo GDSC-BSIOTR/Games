@@ -62,6 +62,7 @@
     "id": "06",
     "name":"Meghsham Jade",
     "favourite-game": "BGMI"
+
    },
 
 
@@ -135,7 +136,17 @@
         "favourite-game": "Candy Crush"
 
       },
-=======
+   
+   
+
+{
+        "id": "05",
+        "name":"Rushita",
+        "favourite-game": "football"
+
+      },
+
+
   
       
       
@@ -164,7 +175,7 @@
          "favourite-game": "Battle Ground Mobile India"
           "id": "5316248410",
 }  
-=======
+
 
       {
         "id": "5",
@@ -393,6 +404,74 @@
          "favourite-game": "PUBG-MOBILE"
 
       }
+
+
+
+   ]
+
+}
+
+      {
+        "id": "6",
+        "name":"Rutuja",
+        "favourite-game": "handball"
+
+      },
+
+
+     {
+        "id":          "6",
+        "name":        "saif",
+        "favourite-game": "football",
+
+        
+        {
+         "id": "22",
+         "name":"prathamesh",
+         "favourite-game": "stone,paper&scissor"
+
+      },
+   }
+   
+ {
+         "id": "07",
+         "name":"Omkar",
+         "favourite-game": "Basketball"
+
+      }
+
+
+
+{
+        "id": "53162483234",
+        "name":"Shubham Nile",
+        "favourite-game": "Battleground Mobile India"
+
+      },
+
+{
+        "id": "5316248410",
+        "name":"Omshree",
+        "favourite-game": "Battleground mobile india"
+
+        },
+
+{
+        "id": "07",
+        "name":"shritej",
+        "favourite-game": "football"
+
+    "id": "4",
+    "name":"Pranita Choure",
+    "favourite-game": "chess"
+   }
+      {
+        "id": "10",
+        "name":"pratiksha",
+        "favourite-game": "Cricket"
+
+      },
+
 ]
    
 
