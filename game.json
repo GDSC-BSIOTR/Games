@@ -16,10 +16,14 @@
         "id": "02",
 
         "name":"Yash",
+
+        "favourite-game": "cricket "
+=======
         "favourite-game": "cricketcommit"
 =======
         "name":"Sahil",
         "favourite-game": "football"
+
 
 
       },
@@ -32,11 +36,15 @@
        {
          "id": "03",
          "name":"HAZEL",
+
+         "favourite-game": "cricket "
+=======
          "favourite-game": "BASKETBALL"},
       {
 =======
          "name":"kartik",
          "favourite-game": "BASKETBALL"
+
 
           "id": "04",
          "name":"Aryan",
