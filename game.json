@@ -488,6 +488,24 @@
 
       },
 
+{
+   "game": [
+
+      {
+         "id": "08",
+
+         "name":"pratik",
+         "favourite-game": "GTA-V"
+=======
+         "name":"pratik",
+
+         "favourite-game": "GTV"
+=======
+         "favourite-game": "cricket"
+
+
+      },
+
 ]
    
 
