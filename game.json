@@ -25,5 +25,11 @@
     "name":"Meghsham Jade",
     "favourite-game": "BGMI"
    },
+       {
+        "id": "05",
+        "name":"Adwaita",
+        "favourite-game": "Candy Crush"
+
+      },
    ]
 }
