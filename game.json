@@ -63,12 +63,28 @@
     "name":"Meghsham Jade",
     "favourite-game": "BGMI"
    },
+  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      {
+    "id": "7",
+    "name":"Alok Singh",
+    "favourite-game": "Valorant"
+   },
 
       {
         "id": "07",
         "name":"shritej",
         "favourite-game": "football"
-=======
+
     "id": "4",
     "name":"Pranita Choure",
     "favourite-game": "chess"
@@ -79,6 +95,7 @@
         "favourite-game": "Cricket"
 
       },
+
 
    ]
 }
@@ -132,9 +149,6 @@
         "favourite-game": "Apex Legends"
 
       },
-
-=======
-
       {
         "id": "06",
         "name":"mangal",
@@ -326,11 +340,7 @@
 
       },
    }
-]
    
-
-     },
-
  {
          "id": "07",
          "name":"Omkar",
@@ -354,3 +364,8 @@
 
         },
 
+
+]
+   
+
+     
