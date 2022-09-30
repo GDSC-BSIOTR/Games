@@ -22,20 +22,36 @@
       },
        {
          "id": "03",
+         "name":"HAZEL",
+         "favourite-game": "BASKETBALL"},
+      {
+=======
          "name":"kartik",
          "favourite-game": "BASKETBALL"
+
           "id": "04",
          "name":"Aryan",
          "favourite-game": "Badminton"
       },
-     
-         "id": "0",
+      {     
+         "id": "05",
          "name":"ABHIRAJ",
          "favourite-game": "CHESS"
 
       },
 
 {
+
+    "id": "06",
+    "name":"Meghsham Jade",
+    "favourite-game": "BGMI"
+   },
+
+      {
+        "id": "07",
+        "name":"shritej",
+        "favourite-game": "football"
+=======
     "id": "4",
     "name":"Pranita Choure",
     "favourite-game": "chess"
@@ -52,10 +68,18 @@
         "name":"mansi ",
         "favourite-game": "carrom"
 
+
       },
+
+      {
+       "id": "08",
+        "name":"Anuja Jadhav",
+        "favourite-game": "GTA Vice City"
+      },
+
       
       {
-        "id": "6",
+        "id": "09",
         "name":"ashish",
         "favourite-game": "gta-v"
 
@@ -65,11 +89,13 @@
 
 
       {
-        "id": "6",
+        "id": "10",
         "name":"Gouri Rawas",
         "favourite-game": "Apex Legends"
 
       },
+
+=======
 
       {
         "id": "06",
@@ -105,10 +131,8 @@
 
 
 
-
-
  {
-        "id": "021212",
+        "id": "11",
         "name":"Rushikesh ",
         "favourite-game": "Genshin impact"
 
