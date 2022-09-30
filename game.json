@@ -4,13 +4,13 @@
       {
          "id": "01",
          "name":"gaurav",
-         "favourite-game": "GTA-V"
+         "favourite-game": "cricket"
 
       },
 
       {
         "id": "02",
-        "name":"Yash",
+        "name":"Sahil",
         "favourite-game": "football"
 
       },
@@ -22,11 +22,11 @@
       },
        {
          "id": "03",
-         "name":"HAZEL",
+         "name":"kartik",
          "favourite-game": "BASKETBALL"
           "id": "04",
-         "name":"alpha",
-         "favourite-game": "football"
+         "name":"Aryan",
+         "favourite-game": "Badminton"
       },
      
          "id": "0",
@@ -37,14 +37,14 @@
 
 {
     "id": "4",
-    "name":"Meghsham Jade",
-    "favourite-game": "BGMI"
+    "name":"Pranita Choure",
+    "favourite-game": "chess"
    }
 
       {
         "id": "5",
-        "name":"shritej",
-        "favourite-game": "football"
+        "name":"mansi ",
+        "favourite-game": "carrom"
 
       },
       
