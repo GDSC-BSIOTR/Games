@@ -20,5 +20,11 @@
          "favourite-game": "BASKETBALL"
 
       },
+      {
+         "id": "06",
+         "name":"ISHA",
+         "favourite-game": "SUBWAY SURFERS"
+
+      },
    ]
 }
