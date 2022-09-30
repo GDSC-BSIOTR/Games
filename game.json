@@ -17,54 +17,38 @@
        {
          "id": "03",
          "name":"HAZEL",
-         "favourite-game": "BASKETBALL"
+         "favourite-game": "BASKETBALL"},
+      {
           "id": "04",
          "name":"alpha",
          "favourite-game": "football"
       },
-     
-         "id": "0",
+      {     
+         "id": "05",
          "name":"ABHIRAJ",
          "favourite-game": "CHESS"
 
       },
 
 {
-    "id": "4",
+    "id": "06",
     "name":"Meghsham Jade",
     "favourite-game": "BGMI"
-   }
+   },
 
       {
-        "id": "5",
+        "id": "07",
         "name":"shritej",
         "favourite-game": "football"
 
       },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      {
+       "id": "08",
+        "name":"Anuja Jadhav",
+        "favourite-game": "GTA Vice City"
+      },
  {
-        "id": "021212",
+        "id": "09",
         "name":"Rushikesh ",
         "favourite-game": "Genshin impact"
 
