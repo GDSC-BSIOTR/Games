@@ -884,5 +884,9 @@
       "favourite-game": "Lagori"
       "favourite-game": "Rope Pulling"
     }
- 
-]
+    {
+      "id": "12",
+      "name":"Purva",
+      "favourite-game": "Badminton"
+    }
+       
