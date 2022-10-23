@@ -854,9 +854,14 @@
         "favourite-game": "Badminton"
       },
      {
-      "id": "11",
+      "id": "264",
       "name":"Rushikesh ",
       "favourite-game": "Genshin impact"
+      },
+      {
+      "id": "265",
+      "name":"Abhishek Nerkar",
+      "favourite-game": "Valorant"
 
 
     }
@@ -865,3 +870,19 @@
       "name":"Tejas",
       "favourite-game":"Clash Of Clans"
    }
+
+     {
+      "id": "266",
+      "name":"Prajwal ",
+      "favourite-game": "Mario"
+
+
+    },
+{
+      "id": "363",
+      "name":"Samyak",
+      "favourite-game": "Lagori"
+      "favourite-game": "Rope Pulling"
+    }
+ 
+]
